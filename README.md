@@ -6,7 +6,7 @@
 - 💬 Ask me about **ReactJS, React Native, and Express.js**
 - 📫 How to reach me: **namdao994@gmail.com**
 - 😄 Pronouns: NamDao.
-- ⚡ ⚡ Fun fact: I enjoy 📚 reading books and 🍳 cooking in my free time.
+- ⚡ Fun fact: I enjoy 📚 reading books and 🍳 cooking in my free time.
 
 ---
 
