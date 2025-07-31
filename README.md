@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nam Dao</h1>
-<h3 align="center">🎯 Frontend-focused, fullstack in progress 🚀</h3>
+<h1 align="left">Hi 👋, I'm Nam Dao</h1>
+<h3 align="left">🎯 Frontend-focused, fullstack in progress 🚀</h3>
 
-- 🔭 I’m currently working on [E-Commerce](https://github.com/Namdao994/E-Commerce)
 - 🌱 I’m currently learning **Express.js**
+- 💻 Most used line of code git commit -m "Initial Commit"
 - 💬 Ask me about **ReactJS, React Native, and Express.js**
 - 📫 How to reach me: **namdao994@gmail.com**
+- 😄 Pronouns: NamDao.
+- ⚡ ⚡ Fun fact: I enjoy 📚 reading books and 🍳 cooking in my free time.
 
 ---
 
@@ -71,16 +73,4 @@
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
   </a>
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namdao994&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
-
-<p>&nbsp;</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=namdao994&show_icons=true&locale=en" alt="GitHub stats" />
 </p>
